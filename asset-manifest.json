@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Word-Calculator/static/css/main.e6c13ad2.css",
+    "main.js": "/Word-Calculator/static/js/main.31e88f0b.js",
+    "static/js/787.719ec76d.chunk.js": "/Word-Calculator/static/js/787.719ec76d.chunk.js",
+    "index.html": "/Word-Calculator/index.html",
+    "main.e6c13ad2.css.map": "/Word-Calculator/static/css/main.e6c13ad2.css.map",
+    "main.31e88f0b.js.map": "/Word-Calculator/static/js/main.31e88f0b.js.map",
+    "787.719ec76d.chunk.js.map": "/Word-Calculator/static/js/787.719ec76d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.31e88f0b.js"
+  ]
+}
